@@ -1,0 +1,12 @@
+# Maven
+log/
+target/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+.name
+
+# Misc.
+application.properties
